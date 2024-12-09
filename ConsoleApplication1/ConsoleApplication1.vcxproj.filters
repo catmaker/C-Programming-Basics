@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Lv1">
+      <UniqueIdentifier>{fe3812dd-570a-4b33-bd14-0297066a39f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Lv1\cout, 변수">
+      <UniqueIdentifier>{86f66160-1e2d-42b3-abd4-adcbf6d9c725}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Lv1 cout,변수.cpp">
+      <Filter>소스 파일\Lv1\cout, 변수</Filter>
+    </ClCompile>
+    <ClCompile Include="Lv1 cout.변수 실습.cpp">
+      <Filter>소스 파일\Lv1\cout, 변수</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
